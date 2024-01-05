@@ -1,7 +1,7 @@
 9b36be1c-981b-4c3b-939d-30ad7c710afe
 {
     "◆◆◆":{
-        "chan":-34525475,"trans":["abckemboobsL",6,"abckemboobsR",6],"sep":":","defs":[],"resa":"resetA",
+        "chan":-34525475,"trans":["|R|",-1,"abckemboobsL",6,"abckemboobsR",6],"sep":":","defs":[],"resa":"resetA",
         "forg":"resetB","show":"show","hide":"hide","logi":"add","logo":"remove"
     },
     "collar":["abckemboobsL",1,"abckemboobsR",1],
