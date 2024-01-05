@@ -6,7 +6,7 @@
     },
     "collar":["abckemboobsL",1,"abckemboobsR",1],
     "shoulderUL":["abckemboobsL",3],
-    "shoulderUR":["shoulderUR",3],
+    "shoulderUR":["abckemboobsR",3],
     "chest":["abckemboobsL",4,"abckemboobsR",4], 
     "breast":["abckemboobsL",5,"abckemboobsR",5], 
     "ribs":["abckemboobsL",2,"abckemboobsR",2],
