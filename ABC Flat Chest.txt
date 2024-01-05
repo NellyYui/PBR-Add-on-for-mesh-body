@@ -11,7 +11,7 @@
     "chest":["abckemflatL",3,"abckemflatR",3],
     "breast":["abckemflatL",2,"abckemflatR",2],
     "ribs":["abckemflatL",1,"abckemflatR",1],
-    "◇LOWER":["abckemflatL",0,1,2,3,4,5],
-    "◇UPPER":["abckemflatR",0,1,2,3,4,5],
+    "◇LOWER":["abckemflatL",0,1,2,3,4,6],
+    "◇UPPER":["abckemflatR",0,1,2,3,4,6],
     "◇SKIN":["abckemflatL",0,1,2,3,4,6,"abckemflatR",0,1,2,3,4,6]
 }
