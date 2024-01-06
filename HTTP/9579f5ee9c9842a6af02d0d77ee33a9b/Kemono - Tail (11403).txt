@@ -1,1 +1,1 @@
-{"◆◆◆":{"chan":-34525475,"trans":[],"sep":":","defs":[],"resa":"resetA","forg":"resetB","show":"show","hide":"hide","logi":"add","logo":"remove"},"tail":["|R|",0],"◇AUX2":["|R|",0]}
+{"◆◆◆":{"chan":-34525475,"trans":[],"sep":[":"],"defs":[],"resa":"resetA","forg":"resetB","show":"show","hide":"hide","logi":"add","logo":"remove"},"tail":["|R|",0],"◇AUX2":["|R|",0]}
