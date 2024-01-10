@@ -33,7 +33,7 @@
     "handL":["handL",0],
     "handR":["handR",0],
     "chest":["body",0,1],
-    "breast":["body",2,3],
+    "breast":["body",2,3,"PG",2,3],
     "nips":["PG",2,3],
     "ribs":["body",4,5],
     "abs":["body",6,7],

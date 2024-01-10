@@ -1,0 +1,38 @@
+9b36be1c-981b-4c3b-939d-30ad7c710afe
+{
+    "◆◆◆":{
+        "chan":-13042018,
+        "trans":["fuz1",0,"fuz2",0,"lite",-1],
+        "sep":[":","*","[","]"],
+        "defs":["M4int:fuzz:0","M4int:tong:1"],
+        "resa":"resetA",
+        "forg":"resetB",
+        "show":"show",
+        "hide":"hide",
+        "logi":"add",
+        "logo":"remove",
+        "sync":["eyebaseL","eyebaseR","eyeL","eyeR"]
+    },
+    "◇◇◇":{
+        "M4int:fuzz:0":[["|R|",3,6],["fuz1",1,2,"fuz2",1,2]],
+        "M4int:fuzz:1":[["fuz1",1,2],["|R|",3,6,"fuz2",1,2]],
+        "M4int:fuzz:2":[["fuz2",1,2],["|R|",3,6,"fuz1",1,2]],
+        "M4int:tong:0":[["skull",5],["skull",4]],
+        "M4int:tong:1":[["skull",4],["skull",5]]
+    },
+    "brows":["alpha",0],
+    "lashes":["alpha",6],
+    "blush":["alpha",7],
+    "mouth":["|R|",0,"skull",4,5],
+    "eyebaseL":["alpha",1],
+    "eyebaseR":["alpha",2],
+    "eyeL":["alpha",3],
+    "eyeR":["alpha",4],
+    "hairbase":["alpha",0],
+    "tongue":["skull",4,5],
+    "◇AUX3":["alpha",3],
+    "◇EYES":["alpha",4],
+    "◇HAIR":["|R|",2,3,4,"skull",0,"fuz1",1,"fuz2",1],
+    "◇HEAD":["|R|",1,5,6,7,"skull",2,"fuz1",2,"fuz2",2],
+    "◇SKIN":["|R|",1,2,3,4,5,6,7,"fuz1",1,2,"fuz2",1,2]
+}

@@ -1,0 +1,1 @@
+{"◆◆◆":{"chan":-34525475,"trans":[],"sep":[":"],"defs":[],"resa":"resetA","forg":"resetB","show":"show","hide":"hide","logi":"add","logo":"remove"},"◇LOWER":["|R|",0],"◇UPPER":["|R|",1],"◇SKIN":["|R|",-1]}

@@ -1,0 +1,22 @@
+9b36be1c-981b-4c3b-939d-30ad7c710afe
+{
+    "◆◆◆":{
+        "chan":-34525475,
+        "trans":[],
+        "sep":[":"],
+        "defs":[],
+        "resa":"resetA",
+        "forg":"resetB",
+        "show":"show",
+        "hide":"hide",
+        "logi":"add",
+        "logo":"remove"
+    },
+    "ribs":["|R|",0,1],
+    "abs":["|R|",2,3],
+    "belly":["|R|",4,5],
+    "pelvis":["hips",6,7],
+    "◇LOWER":["|R|",1,3,5,7],
+    "◇UPPER":["|R|",0,2,4,6],
+    "◇SKIN":["|R|",-1]
+}

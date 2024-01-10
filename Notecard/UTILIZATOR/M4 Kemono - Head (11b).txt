@@ -1,0 +1,38 @@
+9b36be1c-981b-4c3b-939d-30ad7c710afe
+{
+    "◆◆◆":{
+        "chan":-13042018,
+        "trans":["lite",-1],
+        "sep":[":","*","[","]"],
+        "defs":["M4int:eShape:0","M4int:tong:0"],
+        "resa":"resetA",
+        "forg":"resetB",
+        "show":"show",
+        "hide":"hide",
+        "logi":"add",
+        "logo":"remove",
+        "sync":["eyebaseL","eyebaseR","eyeL","eyeR"]
+    },
+    "◇◇◇":{
+        "M4int:eShape:0":[["eyes",4],["eyes",5]],
+        "M4int:eShape:1":[["eyes",5],["eyes",4]],
+        "M4int:tong:0":[["|R|",5],["|R|",6]],
+        "M4int:tong:1":[["|R|",6],["|R|",5]]
+    },
+    "brows":["hair",1,],
+    "lashes":["eyes",4,5],
+    "blush":["hair",0],
+    "mouth":["|R|",0,5,6,7],
+    "eyebaseL":["eyes",2],
+    "eyebaseR":["eyes",3],
+    "eyeL":["eyes",0],
+    "eyeR":["eyes",1],
+    "hairbase":["hair",2],
+    "teeth":["|R|",7],
+    "tongue":["|R|",5,6],
+    "◇AUX3":["eyes",0],
+    "◇EYES":["eyes",1],
+    "◇HAIR":["|R|",3],
+    "◇HEAD":["|R|",1,2,4],
+    "◇SKIN":["|R|",1,2,3,4]
+}

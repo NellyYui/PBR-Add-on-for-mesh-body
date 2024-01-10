@@ -1,0 +1,18 @@
+9b36be1c-981b-4c3b-939d-30ad7c710afe
+{
+    "◆◆◆":{
+        "chan":-13042018,
+        "trans":["|R|",0],
+        "sep":[":"],
+        "defs":[],
+        "resa":"resetA",
+        "forg":"resetB",
+        "show":"show",
+        "hide":"hide",
+        "logi":"add",
+        "logo":"remove"
+    },
+    "neck":["|R|",2,3],
+    "◇HEAD":["|R|",1],
+    "◇SKIN":["|R|",1]
+}

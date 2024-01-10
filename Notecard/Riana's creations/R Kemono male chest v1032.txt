@@ -1,0 +1,26 @@
+9b36be1c-981b-4c3b-939d-30ad7c710afe
+{
+    "◆◆◆":{
+        "chan":-34525475,
+        "trans":["|R|",-1,"underlayer",-1,"torso",0,1],
+        "sep":[":"],
+        "defs":[],
+        "resa":"resetA",
+        "forg":"resetB",
+        "show":"show",
+        "hide":"hide",
+        "logi":"add",
+        "logo":"remove"
+    },
+    "◇◇◇":{
+        "hide:nips":[["pg",-1],["nipples",-1]],
+        "show:nips":[["nipples",-1],["pg",-1]]
+    },
+    "chest":["torso",6,7],
+    "breast":["torso",4,5],
+    "nips":["nipples",0,1],
+    "ribs":["torso",2,3],
+    "◇LOWER":["torso",3,5,7,"nipples",1,"pg",1],
+    "◇UPPER":["torso",2,4,6,"nipples",0,"pg",0],
+    "◇SKIN":["torso",2,3,4,5,6,7,"nipples",-1,"pg",-1]
+}
